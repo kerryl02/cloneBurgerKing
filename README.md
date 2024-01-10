@@ -1,2 +1,2 @@
 # cloneBurgerKing
-Site burger king
+Site burger king non responsive.
